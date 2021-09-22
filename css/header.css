@@ -1,0 +1,21 @@
+<style>
+	.navigationcontainer{
+		width: 100%;
+		height: 70px;
+		background: silver;
+		margin: 0 auto auto auto;
+
+	}
+	
+	.navmenu{
+        
+        
+        font-size: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        justify-items: right;
+        background: #f2f2f2;
+    
+    }
+
+</style>
